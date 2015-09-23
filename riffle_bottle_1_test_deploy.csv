@@ -1,4 +1,4 @@
-unix_timestamp,datetime,riffle_temp,water_temp,conductivity
+unix_timestamp,datetime,riffle_temp,water_temp,conductivity,battery
 1442854264,2015-09-21 16:51:04,19.75,20.92,  0.00,599
 1442854945,2015-09-21 17:02:25,19.50,21.01,  0.00,599
 1442855625,2015-09-21 17:13:45,20.75,25.45,3315.13,598
